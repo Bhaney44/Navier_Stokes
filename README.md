@@ -9,5 +9,4 @@ Dependicies for this respository are: numpy, matplot, sympy, and ffmpeg*
 Copyright Brian Haney 2020
 
 17 U.S.C. §§ 101-810.
-
 All rights reserved.
