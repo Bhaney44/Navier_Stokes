@@ -5,3 +5,7 @@ Branden Keck, animated_navier_stokes (2020), https://github.com/BrandenKeck/anim
 Lorena A. Barba and Gilbert F. Forsyth, CFD Python: the 12 steps to Navier-Stokes equations (2018), 10.21105/jose.00021. See also https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/.
 
 Dependicies for this respository are: numpy, matplot, sympy, and ffmpeg*
+
+Copyright Brian Haney 2020
+17 U.S.C. §§ 101-810.
+All rights reserved.
