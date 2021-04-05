@@ -7,6 +7,9 @@ Lorena A. Barba and Gilbert F. Forsyth, CFD Python: the 12 steps to Navier-Stoke
 
 Dependicies for this respository are: numpy, matplot, sympy, and ffmpeg*
 
+Proof for Navier Stokes Smoothness: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3801362
+Video: https://www.youtube.com/watch?v=URi1arZ5OHg&t=168s
+
 Copyright Brian Haney 2020
 
 17 U.S.C. §§ 101-810.
